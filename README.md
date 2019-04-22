@@ -1,5 +1,3 @@
-Project's Link: https://naughty-hopper-93dd42.netlify.com/
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
